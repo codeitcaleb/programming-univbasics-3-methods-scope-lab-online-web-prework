@@ -1,8 +1,7 @@
 def mario
-  
-  puts phrase
   phrase = "It's-a me, Mario!"
   "It's-a me, Mario!"
+  puts phrase
 end
 
 def toadstool
