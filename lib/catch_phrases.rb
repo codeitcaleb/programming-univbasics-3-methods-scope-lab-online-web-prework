@@ -10,4 +10,4 @@ def toadstool
 end
 
 def link 
-  puts "It's too dangerous to go alone, t"
+  puts "It's Dangerous to go alone, t"
